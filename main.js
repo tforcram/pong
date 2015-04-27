@@ -4,7 +4,7 @@ element.innerText = "by SilverWolf";
 var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
 
-
+//testing
  context.rect(0, 0, canvas.width, canvas.height);
 
       // create radial gradient
