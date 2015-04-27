@@ -20,7 +20,7 @@ var context = canvas.getContext('2d');
 
 // do cool things with the context
 context.font = '40pt Calibri';
-context.fillStyle = 'yellow ';
+context.fillStyle = 'yellow';
 context.fillText('Pong', 250, 200);
 
 
